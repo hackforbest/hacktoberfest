@@ -1,4 +1,3 @@
 # LANGUAGE: Python
 # AUTHOR: Nikhil
-# GITHUB: https://github.com/computelarge
-print("Hello World!")
+# GITHUB: https://github.com/comp
